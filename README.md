@@ -5,12 +5,12 @@ After discovering that Thomas High schools 9th grade metrics were flawed we will
 
 
 How is the district summary affected?
-![alt text]([(https://github.com/MellyCodes808/School-District-Analysis/blob/main/resources/pyber%20summary%20df.png)
+![alt text](https://github.com/MellyCodes808/School-District-Analysis/blob/main/resources/pyber%20summary%20df.png)
 
 
 
 Challenge 
-![alt text]([https://github.com/MellyCodes808/School-District-Analysis/blob/main/resources/challenge%20summary%20df.png)
+![alt text](https://github.com/MellyCodes808/School-District-Analysis/blob/main/resources/challenge%20summary%20df.png)
 
 How is the school summary affected?
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
