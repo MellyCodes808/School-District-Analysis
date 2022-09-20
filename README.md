@@ -22,8 +22,7 @@ Reading 90 to 69
 Math 93 to 66
 From top performing school to bottom performing 
 How does replacing the ninth-grade scores affect the following:
-![alt text]
-![alt text]
+
 Math and reading scores by grae
 Math 
 Doesnt affect by grade, 9th grade was just deleted 
@@ -31,15 +30,15 @@ Doesnt affect by grade, 9th grade was just deleted
 Scores by school spending
 Pyber 
 Challenge 
-![alt text]https://github.com/MellyCodes808/School-District-Analysis/blob/main/resources/challenge%20spending%20.png
-![alt text]https://github.com/MellyCodes808/School-District-Analysis/blob/main/resources/challenge%20spending%20.png
+![alt text](https://github.com/MellyCodes808/School-District-Analysis/blob/main/resources/challenge%20spending%20.png)
+![alt text](https://github.com/MellyCodes808/School-District-Analysis/blob/main/resources/challenge%20spending%20.png)
 
 631- 645 range score % passing reading and math score decreased ( category that Thomas was in )
 Scores by school size
 pyber
 Challenge 
-![alt text]https://github.com/MellyCodes808/School-District-Analysis/blob/main/resources/pyber%20school%20size.png
-![alt text]https://github.com/MellyCodes808/School-District-Analysis/blob/main/resources/Challenge%20school%20size.png
+![alt text](https://github.com/MellyCodes808/School-District-Analysis/blob/main/resources/pyber%20school%20size.png)
+![alt text](https://github.com/MellyCodes808/School-District-Analysis/blob/main/resources/Challenge%20school%20size.png)
 
 Medium school scores decreased
 Scores by school type
